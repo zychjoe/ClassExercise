@@ -1,0 +1,13 @@
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/ClassExercise/ClassExercise/obj/Debug/netcoreapp3.1/ClassExercise.csproj.AssemblyReference.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/ClassExercise/ClassExercise/obj/Debug/netcoreapp3.1/ClassExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/ClassExercise/ClassExercise/obj/Debug/netcoreapp3.1/ClassExercise.AssemblyInfoInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/ClassExercise/ClassExercise/obj/Debug/netcoreapp3.1/ClassExercise.AssemblyInfo.cs
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/ClassExercise/ClassExercise/obj/Debug/netcoreapp3.1/ClassExercise.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/ClassExercise/ClassExercise/bin/Debug/netcoreapp3.1/ClassExercise.deps.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/ClassExercise/ClassExercise/bin/Debug/netcoreapp3.1/ClassExercise.runtimeconfig.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/ClassExercise/ClassExercise/bin/Debug/netcoreapp3.1/ClassExercise.runtimeconfig.dev.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/ClassExercise/ClassExercise/bin/Debug/netcoreapp3.1/ClassExercise.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/ClassExercise/ClassExercise/bin/Debug/netcoreapp3.1/ClassExercise.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/ClassExercise/ClassExercise/obj/Debug/netcoreapp3.1/ClassExercise.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/ClassExercise/ClassExercise/obj/Debug/netcoreapp3.1/ClassExercise.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/ClassExercise/ClassExercise/obj/Debug/netcoreapp3.1/ClassExercise.genruntimeconfig.cache
